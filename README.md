@@ -38,7 +38,7 @@ The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of h
 ## 🚀 Deployment & Usage
 1. Open **Power BI Desktop**.
 2. Load the provided dataset.
-3. Import the `.pbix` file for the dashboard.
+3. Import the `Health Dashboard.jpg` file for the dashboard.
 4. Interact with the visuals to derive insights.
 
 ## 📜 Documentation & Contribution
@@ -46,7 +46,7 @@ The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of h
 - Contributions are welcome! Fork the repository and submit a pull request.
 
 ## 📷 Screenshot
-![Dashboard Preview](path/to/Health-Dashboard.jpg)
+Health Dashboard.jpg
 
 ## 🏥 About
 This dashboard was created to improve **healthcare data analysis** and provide meaningful insights into hospital operations. If you find this project useful, consider starring ⭐ the repository!
