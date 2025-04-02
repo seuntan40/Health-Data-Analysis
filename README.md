@@ -49,8 +49,8 @@ The **UNIMED Teaching Hospital Project** provides an interactive analysis of hos
 - Contributions are welcome! Fork the repository and submit a pull request.
 
 ## 📷 Screenshot
-![Dashboard Preview](Health-Dashboard.jpg)
-
+[![Dashboard Preview](Health-Dashboard.jpg)
+](https://github.com/seuntan40/Health-Data-Analysis/blob/main/Health%20Dashboard.jpg?raw=true)
 
 ## 🏥 About
 This dashboard was created to improve **healthcare data analysis** and provide meaningful insights into hospital operations. If you find this project useful, consider starring ⭐ the repository!
