@@ -38,7 +38,7 @@ The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of h
 ## 🚀 Deployment & Usage
 1. Open **Power BI Desktop**.
 2. Load the provided dataset.
-3. Import the `Health Dashboard.jpg` file for the dashboard.
+3. Import the `.pbix` file for the dashboard.
 4. Interact with the visuals to derive insights.
 
 ## 📜 Documentation & Contribution
@@ -46,24 +46,19 @@ The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of h
 - Contributions are welcome! Fork the repository and submit a pull request.
 
 ## 📷 Screenshot
-Health Dashboard.jpg
+![Dashboard Preview](path/to/Health-Dashboard.jpg)
 
 ## 🏥 About
 This dashboard was created to improve **healthcare data analysis** and provide meaningful insights into hospital operations. If you find this project useful, consider starring ⭐ the repository!
 
 ---
+
 📧 For any inquiries, contact akinmurele40@gmail.com, Phone number: 08100403138
 
 
 
-
-
-
-
-
-
-
 **Introduction**
+
 The healthcare industry plays a crucial role in ensuring the well-being of individuals. However, rising medical costs and varying levels of insurance coverage often create financial challenges for patients. This analysis focuses on understanding the key cost drivers in patient billing, specifically medication costs, treatment costs, and, while considering the impact of insurance coverage on out-of-pocket expenses.
 The primary aim of this study is to identify patterns in patient billing and insurance coverage, highlight key observations, and propose actionable recommendations to optimize costs, improve patient affordability, and enhance overall healthcare delivery. The findings are based on a dataset comprising inpatient, outpatient, and emergency cases, with detailed breakdowns of service utilization and associated financial burdens.
 
