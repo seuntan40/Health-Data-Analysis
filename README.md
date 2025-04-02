@@ -3,7 +3,7 @@
 The healthcare industry plays a crucial role in ensuring the well-being of individuals. However, rising medical costs and varying levels of insurance coverage often create financial challenges for patients. This analysis focuses on understanding the key cost drivers in patient billing, specifically medication costs, treatment costs, and, while considering the impact of insurance coverage on out-of-pocket expenses.
 The primary aim of this study is to identify patterns in patient billing and insurance coverage, highlight key observations, and propose actionable recommendations to optimize costs, improve patient affordability, and enhance overall healthcare delivery. The findings are based on a dataset comprising inpatient, outpatient, and emergency cases, with detailed breakdowns of service utilization and associated financial burdens.
 
-# UNIMED Teaching Hospital Dashboard
+# UNIMED Teaching Hospital 
 
 ## 📌 Project Overview
 The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of hospital billing, patient satisfaction, treatment costs, and insurance coverage. This project leverages **Power BI** to visualize key metrics, enabling better decision-making in healthcare management.
