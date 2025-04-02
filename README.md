@@ -1,4 +1,68 @@
 # Health-Data-Analysis
+
+# UNIMED Teaching Hospital Dashboard
+
+## 📌 Project Overview
+The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of hospital billing, patient satisfaction, treatment costs, and insurance coverage. This project leverages **Power BI** to visualize key metrics, enabling better decision-making in healthcare management.
+
+## 📊 Features
+- **Total Billing Analysis:** Breakdown by department and procedure.
+- **Treatment Cost Distribution:** Comparison of inpatient, outpatient, and emergency costs.
+- **Patient Satisfaction Scores:** Visualization by department.
+- **Insurance Coverage Analysis:** Coverage distribution across different age groups.
+- **Demographic Filters:** Gender and seasonal insights.
+
+## 🗂 Data Preparation
+1. **Data Collection:** Gather hospital billing, treatment, and insurance datasets.
+2. **Cleaning & Processing:** Remove inconsistencies, standardize formats.
+3. **Categorization:** Group data by department, procedures, and demographics.
+
+## 📈 Dashboard Development
+- **Key Metrics Display:**
+  - Total Billing Amount
+  - Medication Cost
+  - Treatment Cost
+  - Total Insurance Coverage
+- **Visuals Implemented:**
+  - Bar charts for billing by department and procedure.
+  - Pie charts for patient satisfaction and insurance coverage by age.
+  - Horizontal bars for treatment cost by service type.
+- **Filters:** Gender & Season selection.
+
+## 🔍 Analysis & Insights
+- Identify departments with the highest billing amounts.
+- Evaluate patient satisfaction across departments.
+- Understand insurance coverage distribution.
+- Compare inpatient, outpatient, and emergency treatment costs.
+
+## 🚀 Deployment & Usage
+1. Open **Power BI Desktop**.
+2. Load the provided dataset.
+3. Import the `.pbix` file for the dashboard.
+4. Interact with the visuals to derive insights.
+
+## 📜 Documentation & Contribution
+- **`README.md`** (this file) explains the project structure.
+- Contributions are welcome! Fork the repository and submit a pull request.
+
+## 📷 Screenshot
+![Dashboard Preview](path/to/Health-Dashboard.jpg)
+
+## 🏥 About
+This dashboard was created to improve **healthcare data analysis** and provide meaningful insights into hospital operations. If you find this project useful, consider starring ⭐ the repository!
+
+---
+📧 For any inquiries, contact akinmurele40@gmail.com, Phone number: 08100403138
+
+
+
+
+
+
+
+
+
+
 **Introduction**
 The healthcare industry plays a crucial role in ensuring the well-being of individuals. However, rising medical costs and varying levels of insurance coverage often create financial challenges for patients. This analysis focuses on understanding the key cost drivers in patient billing, specifically medication costs, treatment costs, and, while considering the impact of insurance coverage on out-of-pocket expenses.
 The primary aim of this study is to identify patterns in patient billing and insurance coverage, highlight key observations, and propose actionable recommendations to optimize costs, improve patient affordability, and enhance overall healthcare delivery. The findings are based on a dataset comprising inpatient, outpatient, and emergency cases, with detailed breakdowns of service utilization and associated financial burdens.
