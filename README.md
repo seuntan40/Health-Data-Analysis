@@ -6,7 +6,7 @@ The primary aim of this study is to identify patterns in patient billing and ins
 # UNIMED Teaching Hospital 
 
 ## 📌 Project Overview
-The **UNIMED Teaching Hospital Dashboard** provides an interactive analysis of hospital billing, patient satisfaction, treatment costs, and insurance coverage. This project leverages **Power BI** to visualize key metrics, enabling better decision-making in healthcare management.
+The **UNIMED Teaching Hospital Project** provides an interactive analysis of hospital billing, patient satisfaction, treatment costs, and insurance coverage. This project leverages **Power BI** to visualize key metrics, enabling better decision-making in healthcare management.
 
 ## 📊 Features
 - **Total Billing Analysis:** Breakdown by department and procedure.
