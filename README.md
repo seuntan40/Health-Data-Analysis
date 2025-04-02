@@ -6,10 +6,10 @@ The primary aim of this study is to identify patterns in patient billing and ins
 Python was used to calculate important financial information for UNIMED Teaching Hospital. First, the Total Billing Amount was found by adding the Treatment Cost, Medication Cost, and Room Charges (daily rate). This shows the total cost of care for each patient. Then, the Out of Pocket Cost was calculated by subtracting the Insurance Coverage Amount from the Total Billing Amount. This shows how much patients need to pay themselves. The results were checked by displaying key parts of the data.
 
 **OBSERVATION AND RECOMMENDATION
-**
+
 1.	INSURANCE COVERAGE DISPARITY:
 Observation: 
-•	Patients with limited or no insurance coverage may face higher out-of-pocket costs, potentially leading to inequitable access to treatment, and financial strain.
+•	Patients with limited or no insurance coverage may face higher out-of-pocket costs, potentially leading to inequitable access to 	treatment, and financial strain.
 Recommendation: 
 •	Implement a scale payment system based on income levels 
 •	Offering of financial aids programs to uninsured patients 
@@ -24,20 +24,20 @@ Recommendation:
 	Observation:
 •	Prolong hospital stays contributes significantly to inpatient costs 
 	Recommendation:
-•	Implement faster discharge protocols with home care follow-ups 
-Provide financial incentives for patients.
+•	Implement faster discharge protocols with home care follow-ups
+	Provide financial incentives for patients.
 •	Reduce unnecessary room service add-ons by offerings “basic care package”
 
 
 
-4.	OVERUSE OF EMERGENCY SERVICE 
+5.	OVERUSE OF EMERGENCY SERVICE 
 	Observation:
 •	Many patients use emergency service for non-urgent cases, increasing the burden on healthcare resources 
 	Recommendation:
 •	Launch community education campaigns about appropriate emergency room usage 
 •	Introduce a system to direct non-urgent cases to outpatient clinics
 
-5.	SIGNIFICANT PORTION OF PATIENTS ARE UNINSURED 
+6.	SIGNIFICANT PORTION OF PATIENTS ARE UNINSURED 
 	Observation: 
 •	Some patient lacks insurance entirely, for example, the children
 	Recommendation: 
@@ -46,23 +46,23 @@ Provide financial incentives for patients.
 
 
 
-6.	SEASONAL TREADS AFFECT PATIENT VOLUME AND COST 
+7.	SEASONAL TREADS AFFECT PATIENT VOLUME AND COST 
 
 	Observation: 
-•	Fall and winter are the peak season for getting sicks or ill, particularly with respiratory illness like colds and flu with will lead to surge in outpatient and emergency visits
+•	Fall and winter are the peak season for getting sicks or ill, particularly with respiratory illness like colds and flu with will 	lead to surge in outpatient and emergency visits
 
 	Recommendation: 
 •	increase staffing and resource during peak seasons 
 •	Run vaccination or preventive health campaigns before high-demand periods 
-•	Preventive measures such as flu vaccinations, frequent handwashing and proper ventilation can help reduce illness during these times 
+•	Preventive measures such as flu vaccinations, frequent handwashing and proper ventilation can help reduce illness during these 		times 
 
-7.	PATIENTS WITH ZERO INSURANCE COVERAGE SPEND MORE OUT-OF-POCKET 
+8.	PATIENTS WITH ZERO INSURANCE COVERAGE SPEND MORE OUT-OF-POCKET 
 	Observation:
 •	Patients without insurance coverage spend significantly more on healthcare.
 	Recommendation: 
 •	Introduce flexible payment plans or discount for patients with no insurance.
 •	Advocate for mandatory basic insurance coverage at the policy level
-8.	CHRONIC CONDITIONS
+9.	CHRONIC CONDITIONS
 
 	Observation:
 •	Patients with chronic conditions especially orthopedics department faces higher medication and treatment costs.
@@ -72,7 +72,7 @@ Provide financial incentives for patients.
 •	Implement preventive care programs to reduce the long-term medication burden.
 
 
-9.	PATIENTS WITH NO INSURANCE TEND TO DELAY TREATMENT 
+10.	PATIENTS WITH NO INSURANCE TEND TO DELAY TREATMENT 
 
 Observation:
 •	Uninsured patients delay seeking medical care leading to more severe (and expensive) conditions.
