@@ -2,7 +2,7 @@
 **Introduction**
 The healthcare industry plays a crucial role in ensuring the well-being of individuals. However, rising medical costs and varying levels of insurance coverage often create financial challenges for patients. This analysis focuses on understanding the key cost drivers in patient billing, specifically medication costs, treatment costs, and, while considering the impact of insurance coverage on out-of-pocket expenses.
 The primary aim of this study is to identify patterns in patient billing and insurance coverage, highlight key observations, and propose actionable recommendations to optimize costs, improve patient affordability, and enhance overall healthcare delivery. The findings are based on a dataset comprising inpatient, outpatient, and emergency cases, with detailed breakdowns of service utilization and associated financial burdens.
-**In this analysis**
+
 Python was used to calculate important financial information for UNIMED Teaching Hospital. First, the Total Billing Amount was found by adding the Treatment Cost, Medication Cost, and Room Charges (daily rate). This shows the total cost of care for each patient. Then, the Out of Pocket Cost was calculated by subtracting the Insurance Coverage Amount from the Total Billing Amount. This shows how much patients need to pay themselves. The results were checked by displaying key parts of the data.
 
 **OBSERVATION AND RECOMMENDATION
